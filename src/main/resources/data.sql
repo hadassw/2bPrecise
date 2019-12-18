@@ -1,0 +1,10 @@
+insert into employee (first_name,last_name,position,num_of_employees,manager_id,employee_type) values('emp1','emp1','emp1',4,null,1);
+insert into employee (first_name,last_name,position,num_of_employees,manager_id,employee_type) values('emp2','emp2','emp2',2,1,1);
+insert into employee (first_name,last_name,position,num_of_employees,manager_id,employee_type) values('emp3','emp3','emp3',1,1,1);
+insert into employee (first_name,last_name,position,num_of_employees,manager_id,employee_type) values('emp4','emp4','emp4',1,1,1);
+insert into employee (first_name,last_name,position,num_of_employees,manager_id,employee_type) values('emp11','emp11','emp11',0,1,0);
+insert into employee (first_name,last_name,position,num_of_employees,manager_id,employee_type) values('emp8','emp8','emp8',0,2,0);
+insert into employee (first_name,last_name,position,num_of_employees,manager_id,employee_type) values('emp9','emp9','emp9',1,2,1);
+insert into employee (first_name,last_name,position,num_of_employees,manager_id,employee_type) values('emp12','emp12','emp12',0,7,0);
+insert into employee (first_name,last_name,position,num_of_employees,manager_id,employee_type) values('emp5','emp5','emp5',0,3,0);
+insert into employee (first_name,last_name,position,num_of_employees,manager_id,employee_type) values('emp10','emp10','emp10',0,4,0);
